@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Tugas Binar Authentication</string>
+    <string name="login_text">Login To Your Account</string>
+    <string name="login_button_text">Login</string>
+    <string name="email_hint">Masukan email anda</string>
+    <string name="password_hint">Masukan password anda</string>
+    <string name="forgot_password_hint">Forgot Password</string>
+    <string name="register_hint">Register</string>
 </resources>
