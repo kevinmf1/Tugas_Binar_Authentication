@@ -1,0 +1,30 @@
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_home"
+        android:icon="@drawable/bottom_nav_home_selector"
+        android:title="Home"/>
+
+    <item
+        android:id="@+id/menu_package"
+        android:icon="@drawable/bottom_nav_package_selector"
+        android:title="Package"/>
+
+
+    <item
+        android:enabled="false"
+        tools:ignore="MenuTitle"/>
+
+    <item
+        android:id="@+id/menu_wishlist"
+        android:icon="@drawable/bottom_nav_wishlist_selector"
+        android:title="Wishlist"/>
+
+    <item
+        android:id="@+id/menu_profile"
+        android:icon="@drawable/bottom_nav_profile_selector"
+        android:title="Profile"/>
+
+</menu>

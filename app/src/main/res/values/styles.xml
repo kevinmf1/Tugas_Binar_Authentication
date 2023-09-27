@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="FAB.WhiteText" parent="Widget.Design.FloatingActionButton">
+        <item name="android:textColor">@color/primary_500</item>
+        <item name="android:background">@drawable/rounded_fab</item>
+    </style>
+
+    <style name="ShapeAppearanceOverlay.MaterialComponents.LargeComponent" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">100%</item>
+    </style>
+
+</resources>
