@@ -10,4 +10,8 @@
     <string name="username">username</string>
     <string name="email">email</string>
     <string name="password">password</string>
+    <string name="change_passowrd">Ubah Password</string>
+    <string name="lupa_password">Forgot Password</string>
+    <string name="password_baru">Masukan Passoword Baru</string>
+    <string name="ulang_password_baru">Ulang Password Baru</string>
 </resources>
