@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Tugas Binar Authentication</string>
+    <string name="register">Register</string>
+    <string name="username">username</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
 </resources>
